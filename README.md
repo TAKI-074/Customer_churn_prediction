@@ -18,7 +18,6 @@ By predicting churn in advance, companies can take proactive retention actions.
 - Python
 - Scikit-learn
 - FastAPI
-- Uvicorn
 - NumPy
 - Pandas
 - Pickle (Model Serialization)
